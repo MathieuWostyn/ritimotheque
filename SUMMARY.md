@@ -2,4 +2,5 @@
 
 * [Ritimothèque - Règles d'écriture pour la saisie sous PMB](README.md)
 * [Fiches pratiques](fiches-pratiques.md)
+* [Thésaurus ritimo](thesaurus-ritimo.md)
 
