@@ -3,5 +3,3 @@
 * [Ritimothèque - Règles d'écriture pour la saisie sous PMB](README.md)
 * [Fiches pratiques PMB](fiches-pratiques.md)
 * [Introduction sur les périodiques dans ritimo](les-periodiques.md)
-* [Thésaurus ritimo](thesaurus-ritimo.md)
-
