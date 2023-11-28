@@ -4,3 +4,4 @@
 * [Fiches pratiques PMB](fiches-pratiques.md)
 * [Introduction sur les périodiques dans ritimo](les-periodiques.md)
 * [Le thésaurus](le-thesaurus.md)
+* [Relecture des fichiers](relecture-des-fichiers.md)
