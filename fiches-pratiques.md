@@ -738,7 +738,7 @@ Circulation > Nouveau lecteur
 
 Chaque lecteur·rice est associé·e à un numéro unique. Il convient de créer **un système de numérotation** différent de celui des exemplaires, afin d'éviter tout risque de confusion.
 
-:point\_right:Préconisation de **ritimo** pour constituer le système de numérotation :
+:point\_right: Préconisation de **ritimo** pour constituer le système de numérotation :
 
 * préfixe constitué de la lettre **L** (comme lecteur·rice)
 * premières lettres du nom de la bibliothèque / localisation
