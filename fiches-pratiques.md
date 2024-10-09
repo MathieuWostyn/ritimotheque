@@ -716,7 +716,7 @@ _Pour en savoir plus :_ [_https://www.cnil.fr/sites/default/files/atoms/files/ns
 [https://biblionumericus.fr/2018/03/14/rgpd-et-bibliotheques-cartographie-des-traitements-de-donnees-personnelles/](https://biblionumericus.fr/2018/03/14/rgpd-et-bibliotheques-cartographie-des-traitements-de-donnees-personnelles/)
 {% endhint %}
 
-### 1. Créer un nouveau groupe de lecteur·rices
+### 1. Création d'un nouveau groupe de lecteur·rices
 
 {% hint style="info" %}
 L'utilisation d'un catalogue unique pour l'ensemble des bibliothèques du réseau **ritimo** nécessite de créer un **groupe de lecteur·rices** par localisation.
@@ -724,7 +724,7 @@ L'utilisation d'un catalogue unique pour l'ensemble des bibliothèques du résea
 Par souci de confidentialité, il est recommandé de faire bien attention à n'utiliser / ne visualiser que le groupe de lecteur·rices associé à votre localisation.
 {% endhint %}
 
-Envoyer la demande de création à NSamuel.
+Envoyer la demande de création à la gestion centralisée de la Ritimothèque.
 
 ### 2. Créer un nouveau lecteur·rice
 
@@ -843,8 +843,11 @@ Une fois le retour effectué, un message de confirmation est affiché pour véri
 Différents messages d'alerte peuvent s'afficher lors du retour d'un prêt. Il est donc indispensable de regarder l'écran à chaque opération de prêt.
 {% endhint %}
 
-### Suppression des lecteur·rices
+### 5. Suppression des fiches lecteur·rices périmées
 
 {% hint style="info" %}
-Une fois par an, il est indispensable de supprimer les fiches lecteur·rices qui n'ont pas été renouvelées (la durée de conservation ne doit jamais dépasser la date de fin d'adhésion + un an).
+**Une fois par an,** il est indispensable de **supprimer les fiches lecteur·rices** qui n'ont pas été renouvelées (la durée de conservation ne doit jamais dépasser la date de fin d'adhésion + un an).
 {% endhint %}
+
+* Entrer le nom du/de la lecteur·rice pour afficher sa fiche
+* Cliquer sur le bouton "supprimer" (fonctionne à condition qu'il n'y ait plus aucun prêt en cours).
